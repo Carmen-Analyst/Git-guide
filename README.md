@@ -1,2 +1,1 @@
-# Git-guide
-Guía para conectar GitHub y Pycharm
+📚 Practical guides to mastering Git & GitHub workflows with PyCharm, terminal, and SSH.
